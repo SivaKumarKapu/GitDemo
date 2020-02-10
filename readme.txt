@@ -9,3 +9,5 @@ Modifying the file second time
 Adding changes
 
 This is not much of a problem
+
+Checking staching
